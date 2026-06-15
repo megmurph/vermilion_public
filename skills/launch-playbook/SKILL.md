@@ -168,7 +168,7 @@ Tier 3's Newsletter & Social items still apply. Tier 2 adds:
 | Build target reporter / outlet list | PR | 2–3 wks before |
 | Pitch reporters | PR | 2–3 wks before |
 
-→ Target reporters, outlets, and PR agencies are in `references/pr-targets.md`.
+→ Vermilion keeps its press target list (reporters, outlets, agencies) private — ask the GP for it rather than guessing. It's intentionally not bundled in this public skill.
 
 ### Press materials
 
@@ -255,7 +255,7 @@ A raise is its own path, not a tier. The money is validation, not the story — 
 | Pitch reporters | PR | 2–3 wks before |
 | Set & confirm embargo with each outlet (if applicable) | PR | 1 wk before |
 
-→ Target list in `references/pr-targets.md`.
+→ Vermilion's press target list is private — ask the GP for it (not bundled in this public skill).
 
 ### Press materials
 
@@ -304,7 +304,6 @@ Load these on demand. They resolve the placeholder cells in the source sheet ("E
 | `references/one-pager-product.md` | Drafting the "what are we launching and why it matters" product one-pager (Tier 2 / Tier 1 Messaging). | "Example" (product Messaging) |
 | `references/one-pager-fundraise.md` | Drafting the "who we are, why we matter, why now" fundraise one-pager (Funding Messaging). | "Template" (fundraise Messaging) |
 | `references/linkedin-launch-playbook.md` | Writing the founder LinkedIn post, the company blog, ready-to-lift reshare copy, or the pre-launch email to investors/friendlies. | "LinkedIn launch resource doc" + "Example" (Network & friendlies) |
-| `references/pr-targets.md` | Building the press target list or choosing a PR agency (Tier 1 / Funding Press). | Press strategy / materials |
 | `references/product-hunt-checklist.md` | Prepping a Product Hunt launch (Tier 1 Product Hunt). | "PH prep" / "Tiered Launch Plans" |
 | `references/homepage-messaging.md` | Updating homepage / landing-page copy (any tier, Site). | Site / homepage |
 
