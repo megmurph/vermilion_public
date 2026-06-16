@@ -306,5 +306,6 @@ Load these on demand. They resolve the placeholder cells in the source sheet ("E
 | `references/linkedin-launch-playbook.md` | Writing the founder LinkedIn post, the company blog, ready-to-lift reshare copy, or the pre-launch email to investors/friendlies. | "LinkedIn launch resource doc" + "Example" (Network & friendlies) |
 | `references/product-hunt-checklist.md` | Prepping a Product Hunt launch (Tier 1 Product Hunt). | "PH prep" / "Tiered Launch Plans" |
 | `references/homepage-messaging.md` | Updating homepage / landing-page copy (any tier, Site). | Site / homepage |
+| `references/founder-launch-prompt.md` | A founder wants a self-serve prompt to generate their own launch plan + comms outside our environment — hand it over instead of running the playbook for them. | — (founder self-serve, not from sheet) |
 
 Each reference file keeps its live Notion URL at the top followed by a content snapshot, so the skill still works if Notion isn't reachable. When Notion is reachable, prefer the live page in case it's been updated.
